@@ -35,8 +35,10 @@ All extracted data is stored in a **PostgreSQL (Neon)** database for persistent 
 ```bash
 git clone https://github.com/<your-username>/PhotoData.git
 cd PhotoData
-
+```
 ### 2. Install Dependencies
 
 ```bash
 npm install
+```
+
