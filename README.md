@@ -48,10 +48,6 @@ DATABASE_URL=postgresql://<user>:<password>@<host>/<db>?sslmode=require
 PORT=3000
 
 GEMINI_API_KEY=<your-gemini-api-key>
-
-CLOUDINARY_CLOUD_NAME=<your-cloudinary-cloud-name>
-CLOUDINARY_API_KEY=<your-cloudinary-api-key>
-CLOUDINARY_API_SECRET=<your-cloudinary-api-secret>
 ```
 ⚠️ Replace placeholders (<user>, <password>, <host>, etc.) with your actual credentials.
 
